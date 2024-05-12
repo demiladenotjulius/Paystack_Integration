@@ -9,7 +9,7 @@ Node.js (version >= 12.0.0)
 npm (or yarn)
 Installation
 Clone the repository:
-git clone https://github.com/your/repository.git
+git clone (https://github.com/demiladenotjulius/server-starter/tree/main)
 npm install
 Configuration
 Set up environment variables:Create a .env file in the root directory of the project with the following variables:
